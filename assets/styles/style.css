@@ -1,13 +1,27 @@
 :root {
-    --cor-um: #024554;
-    --cor-dois: #53736A;
-    --cor-tres: #6A8C69;
-    --cor-quatro: #A8B545;
-    --cor-cinco: #C2C0A6;
-    --cor-seis: #F2E3D5;
+    --cor-verde-escuro: #024554;
+    --cor-verde-medio: #53736A;
+    --cor-verde-claro: #6A8C69;
+    --cor-verde-destaque: #A8B545;
+    --cor-bege-escuro: #C2C0A6;
+    --cor-bege-claro: #F2E3D5;
+
+    --ff-principal: 'Roboto', sans-serif;
+
+    --fs-1: 14px;
+    --fs-2: 16px;
+
+    --fw-bold: 700;
+    --fw-regular: 400;
 }
 
 body {
-
+    background: var(--cor-bege-claro);
+    color: var(--cor-verde-escuro);
+    font-family: var(--ff-principal);
+    font-size: var(--fs-1);
+    font-weight: var(--fw-regular);
+    overflow: auto;
+    text-align: center;
 }
 
