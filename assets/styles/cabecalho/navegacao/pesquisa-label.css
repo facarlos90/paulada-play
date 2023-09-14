@@ -1,0 +1,10 @@
+.pesquisa__label {
+    background-color: var(--cor-verde-destaque);
+    background-image: url(../../../img/icons/search.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid var(--cor-verde-claro);
+    border-left: none;
+    cursor: pointer;
+    padding: 6px 18px 7px;
+}

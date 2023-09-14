@@ -1,0 +1,6 @@
+.cabecalho__navegacao-icones {
+    align-items: center;
+    display: flex;
+    gap: 24px;
+    margin-right: 20px;
+}

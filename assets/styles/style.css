@@ -1,3 +1,11 @@
+@import url(./cabecalho/cabecalho.css);
+@import url(./cabecalho/cabecalho-navegacao.css);
+@import url(./cabecalho/navegacao/navegacao-pesquisa.css);
+@import url(./cabecalho/navegacao/pesquisa-input.css);
+@import url(./cabecalho/navegacao/pesquisa-label.css);
+@import url(./cabecalho/cabecalho-navegacao-icones.css);
+
+
 :root {
     --cor-verde-escuro: #024554;
     --cor-verde-medio: #53736A;
@@ -8,20 +16,27 @@
 
     --ff-principal: 'Roboto', sans-serif;
 
-    --fs-1: 14px;
-    --fs-2: 16px;
+    --fs-maior: 16px;
+    --fs-media: 14px;
 
     --fw-bold: 700;
     --fw-regular: 400;
+
+    --container-width: 100%;
 }
 
 body {
     background: var(--cor-bege-claro);
     color: var(--cor-verde-escuro);
     font-family: var(--ff-principal);
-    font-size: var(--fs-1);
+    font-size: var(--fs-media);
     font-weight: var(--fw-regular);
     overflow: auto;
     text-align: center;
 }
+
+.container {
+    width: var(--container-width);
+}
+
 

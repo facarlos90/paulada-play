@@ -1,0 +1,6 @@
+.pesquisa__input {
+    border: 1px solid var(--cor-verde-claro);
+    font-size: var(--fs-maior);
+    height: 32px;
+    width: 260px;
+}
