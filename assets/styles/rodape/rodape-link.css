@@ -1,0 +1,6 @@
+.rodape__link {
+    color: var(--cor-verde-medio);
+    font-family: var(--ff-principal);
+    font-size: var(--fs-media);
+    text-decoration: none;
+}

@@ -10,6 +10,10 @@
 @import url(./main/menu-lateral/lista-items/items-icone.css);
 @import url(./main/secao-superior/barraSuperior.css);
 @import url(./main/secao-superior/barraSuperior-item.css);
+@import url(./rodape/rodape.css);
+@import url(./rodape/rodape-titulo.css);
+@import url(./rodape/rodape-link.css);
+@import url(./rodape/rodape-texto.css);
 
 :root {
     --cor-verde-escuro: #024554;
@@ -32,7 +36,8 @@
 }
 
 body {
-    background: var(--cor-bege-claro);
+    background: var(--cor-bege-escuro);
+    box-sizing: border-box;
     color: var(--cor-verde-escuro);
     font-family: var(--ff-principal);
     font-size: var(--fs-media);

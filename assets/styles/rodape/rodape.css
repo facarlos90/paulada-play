@@ -1,0 +1,22 @@
+.rodape {
+    background-color: var(--cor-bege-claro);
+    display: flex;
+    flex-flow: column wrap;
+    height: 875px;
+    width: 100%;
+
+}
+
+@media screen and (min-width: 1024px) {
+    .rodape {
+        height: 420px;
+        padding-left: 65px;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .rodape {
+        height: 225px;
+        padding-left: 240px;
+    }
+}
