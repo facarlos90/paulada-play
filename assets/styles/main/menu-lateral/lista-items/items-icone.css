@@ -1,0 +1,75 @@
+.icone--inicio::before {
+    content: url(../../../../img/menu/home.png);
+}
+
+.icone--explorar::before {
+    content: url(../../../../img/menu/explore.png);
+}
+
+.icone--shorts::before {
+    content: url(../../../../img/menu/shorts.png);
+}
+
+.icone--inscricoes::before {
+    content: url(../../../../img/menu/subscriptions.png);
+}
+
+.icone--biblioteca::before {
+    content: url(../../../../img/menu/video_library.png);
+}
+
+.icone--historico::before {
+    content: url(../../../../img/menu/history.png);
+}
+
+.icone--relogio::before {
+    content: url(../../../../img/menu/history_toggle_off.png);
+}
+
+.icone--like::before {
+    content: url(../../../../img/menu/thumb_up_alt.png);
+}
+
+.icone--paulada::before {
+    content: url(../../../../img/menu/avatar-paulada.png);
+}
+
+.icone--paola::before {
+    content: url(../../../../img/menu/avatar-paola.png);
+}
+
+.icone--banquete::before {
+    content: url(../../../../img/menu/avatar-banquete.png);
+}
+
+.icone--cansei::before {
+    content: url(../../../../img/menu/avatar-cansei.png);
+}
+
+.icone--acava::before {
+    content: url(../../../../img/menu/avatar-acava.png);
+}
+
+.icone--underchef::before {
+    content: url(../../../../img/menu/avatar-underchef.png);
+}
+
+.icone--cocktail::before {
+    content: url(../../../../img/menu/avatar-cocktail.png);
+}
+
+.icone--mostrar::before {
+    content: url(../../../../img/menu/keyboard_arrow_down.png);
+}
+
+.icone--videos::before {
+    content: url(../../../../img/menu/videos.png);   
+}
+
+.icone--filmes::before {
+    content: url(../../../../img/menu/filmes.png);
+}
+
+.icone--jogos::before {
+    content: url(../../../../img/menu/jogos.png);
+}

@@ -4,7 +4,10 @@
 @import url(./cabecalho/navegacao/pesquisa-input.css);
 @import url(./cabecalho/navegacao/pesquisa-label.css);
 @import url(./cabecalho/cabecalho-navegacao-icones.css);
-
+@import url(./main/menu-lateral/menu.css);
+@import url(./main/menu-lateral/menu-lista.css);
+@import url(./main/menu-lateral/lista-items/lista-items.css);
+@import url(./main/menu-lateral/lista-items/items-icone.css);
 
 :root {
     --cor-verde-escuro: #024554;
@@ -13,6 +16,7 @@
     --cor-verde-destaque: #A8B545;
     --cor-bege-escuro: #C2C0A6;
     --cor-bege-claro: #F2E3D5;
+    --cor-texto-menu: #FFFFFF;
 
     --ff-principal: 'Roboto', sans-serif;
 
