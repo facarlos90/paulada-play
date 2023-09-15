@@ -8,6 +8,8 @@
 @import url(./main/menu-lateral/menu-lista.css);
 @import url(./main/menu-lateral/lista-items/lista-items.css);
 @import url(./main/menu-lateral/lista-items/items-icone.css);
+@import url(./main/secao-superior/barraSuperior.css);
+@import url(./main/secao-superior/barraSuperior-item.css);
 
 :root {
     --cor-verde-escuro: #024554;
@@ -35,8 +37,11 @@ body {
     font-family: var(--ff-principal);
     font-size: var(--fs-media);
     font-weight: var(--fw-regular);
+    height: 100vh;
     overflow: auto;
+    position: relative;
     text-align: center;
+    width: 100%;
 }
 
 .container {

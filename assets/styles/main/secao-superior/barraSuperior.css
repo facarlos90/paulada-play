@@ -1,0 +1,29 @@
+.barra-superior {
+    align-items: center;
+    background-color:var(--cor-verde-claro);
+    display: flex;
+    gap: 15px;
+    height: 63px;
+    left: 0;
+    overflow: scroll;
+    padding: 0 20px;
+    position: fixed;
+    right: 0;
+    top: 80px;
+    white-space: nowrap;
+}
+
+@media screen and (min-width: 1024px) {
+    .barra-superior {
+        border-top: var(--cor-verde-destaque) 1px solid;
+        border-bottom: var(--cor-verde-destaque) 1px solid;
+        left: 100px;
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .barra-superior {
+        left: 239px;
+    }
+}

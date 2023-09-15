@@ -1,0 +1,21 @@
+.barra-superior__item {
+    background-color: var(--cor-bege-escuro);
+    border: 1px solid var(--cor-verde-medio);
+    border-radius: 20px;
+    color: var(--cor-verde-escuro);
+    cursor: pointer;
+    font-size: var(--fs-maior);
+    padding: 8px 20px;
+    text-decoration: none;
+}
+
+.barra-superior__item:hover {
+    background-color: var(--cor-verde-destaque);
+    border-color: var(--cor-bege-escuro);
+    color: var(--cor-texto-menu);
+    transition: .5s;
+}
+
+@media screen and (min-width: 1024px) {}
+
+@media screen and (min-width: 1728px) {}
