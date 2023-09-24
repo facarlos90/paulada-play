@@ -2,12 +2,20 @@
 
 O projeto, chamado PauladaPlay, é uma plataforma de vídeos com um layout moderno e rico em elementos que serão distribuídos de acordo com a tela do usuário (site responsivo).
 
-![](https://github.com/facarlos90/paulada-play/blob/main/banner.png)
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Paulada Play**
+| :label: Tecnologias | html, css
+| :rocket: URL         | https://github.com/facarlos90/paulada-play.git
+| :fire: Desafio     | 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://github.com/facarlos90/paulada-play/blob/main/banner.png#vitrinedev)
 
 ## Detalhes do projeto
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
 Projeto em desenvolvimento para colocar em prática e fixar o conhecimento adquirido no Curso "CSS: Flexbox e layouts responsivos" da Alura. 
