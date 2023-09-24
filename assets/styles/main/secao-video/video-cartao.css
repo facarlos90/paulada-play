@@ -1,0 +1,21 @@
+.video__cartao {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 153px 20px 10px 20px;
+}
+
+@media screen and (min-width: 1024px) {
+    .video__cartao {
+        gap: 30px;
+        padding-left: 120px;
+        padding-right: 50px;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .video__cartao {
+        padding-left: 248px;
+        padding-right: 10px;
+    }
+}

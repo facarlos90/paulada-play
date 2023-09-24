@@ -10,6 +10,9 @@
 @import url(./main/menu-lateral/lista-items/items-icone.css);
 @import url(./main/secao-superior/barraSuperior.css);
 @import url(./main/secao-superior/barraSuperior-item.css);
+@import url(./main/secao-video/video-cartao.css);
+@import url(./main/secao-video/cartao-player.css);
+@import url(./main/secao-video/cartao-descricao.css);
 @import url(./rodape/rodape.css);
 @import url(./rodape/rodape-titulo.css);
 @import url(./rodape/rodape-link.css);

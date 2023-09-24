@@ -1,0 +1,12 @@
+.cartao__player {
+    flex-grow: 1;
+    height: 303px;
+    width: 280px;
+}
+
+.cartao__player:hover {
+    background-color: var(--cor-bege-escuro);
+    transform: scale(1.3);
+    transition: .5s;
+    z-index: 2;
+}
